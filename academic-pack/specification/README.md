@@ -55,7 +55,7 @@ Standard mode: electrooculography sensors ON / accelerometer sensors ON / gyrosc
 Quaternion mode: electrooculography sensors OFF
 </span>
 
-[back↑](#hardware-specifications1)
+[back↑](#three-point-electrooculograpy-sensors)
 ***
 
 
