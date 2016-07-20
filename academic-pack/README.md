@@ -14,10 +14,10 @@ Welcome to the **JINS MEME ACADEMIC PACK** Page.<br>
 <tr>
 
 <td align="center" width="22%"><a href="https://jins-meme.com/en/purchase/application">Order Here</a></td>
-<td  align="left" width="22%"><a href="https://github.com/jins-meme/home/wiki/Getting-Started-with-JINS-MEME-ACADEMIC-PACK">Introduction page</a><br>-setup<br>-streaming data</td>
+<td  align="left" width="22%"><a href="https://github.com/jins-meme/documentation/tree/master/academic-pack/introduction">Introduction page</a><br>-setup<br>-streaming data</td>
 
-<td  align="left" width="22%"><a href="https://github.com/jins-meme/home/wiki/SPECIFICATION">* Specification</a><br> <a href="https://github.com/jins-meme/home/wiki/FAQ">* FAQ</a>
-<br> <a href="https://github.com/jins-meme/home/wiki/CONTACT">* Contact</a>
+<td  align="left" width="22%"><a href="https://github.com/jins-meme/documentation/tree/master/academic-pack/specification">* Specification</a><br> <a href="https://github.com/jins-meme/documentation/tree/master/academic-pack/FAQ">* FAQ</a>
+<br> <a href="https://github.com/jins-meme/documentation/tree/master/academic-pack/contact">* Contact</a>
 
 </td>
 
