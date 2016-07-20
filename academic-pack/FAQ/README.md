@@ -35,7 +35,7 @@ The most commonly asked questions regarding JINS MEME Developers and JINS MEME A
 ### About General
 
 ###  Q. What is EOG?
-![EOG](../wiki/images/EOG.JPG)
+![EOG](https://raw.githubusercontent.com/wiki/jins-meme/documentation/images/EOG.JPG)
 
 > It is widely known that the human eyeball has a positive electrical potential on its cornea side. When this positive electrical potential on the cornea side moves with our eye movements or blinks, changes occur to the electric potential of the surrounding skin. The three-point electrooculography sensors located on the JINS MEME nose pads can detect these eye movements and measure the changes in electrical potential.
 
