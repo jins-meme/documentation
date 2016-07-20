@@ -54,7 +54,7 @@ JINS MEME Academic is intended to be used in research by academic institutions a
 
 <tr>
   <td align="center">Hardware<br><a href="https://github.com/jins-meme/home/wiki#hardware-details">(Details)</a></td>
-  <td colspan="2" align="center"><img width="300" src="wiki/images/Wellington.JPG" /> <br> Wellington Model </td>
+  <td colspan="2" align="center"><img width="300" src="https://raw.github.com/wiki/jins-meme/documentation/images/Wellington.JPG" /> <br> Wellington Model </td>
 </tr>
 
 <tr>
@@ -118,10 +118,10 @@ JINS MEME Academic is intended to be used in research by academic institutions a
 </table>
 
 ## Hardware Details
-![details](wiki/images/hw_details.png)
+![details](https://raw.github.com/wiki/jins-meme/documentation/images/hw_details.png)
 
 ## Accessible Signals
-<a href="wiki/images/dataflowchart01.png">![DataFlow](wiki/images/dataflowchart01.png)</a>
+<a href="https://raw.github.com/wiki/jins-meme/documentation/images/dataflowchart01.png">![DataFlow](https://raw.github.com/wiki/jins-meme/documentation/images/dataflowchart01.png)</a>
 
 <hr>
 ##### *1. Sales unit of JINS MEME ACADEMIC PACK outside Japan is 1 device. (while 2 devices in Japan.)  
