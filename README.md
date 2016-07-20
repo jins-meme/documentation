@@ -29,7 +29,7 @@ JINS MEME Academic is intended to be used in research by academic institutions a
 </tr>
 
 <tr>
-  <td align="center">Unit<a href="https://github.com/jins-meme/home/wiki#1-sales-unit-of-jins-meme-academic-pack-outside-japan-is-1-device-while-2-devices-in-japan"><sup>*1</sup></a>Price
+  <td align="center">Unit<a href="https://github.com/jins-meme/documentation#1-sales-unit-of-jins-meme-academic-pack-outside-japan-is-1-device-while-2-devices-in-japan"><sup>*1</sup></a>Price
  <br> (ex.VAT & Duties)</td>
   <td align="center">€ 550</td>
 　<td align="center">€ 2,550</td>
