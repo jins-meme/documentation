@@ -41,7 +41,7 @@ JINS MEME Academic is intended to be used in research by academic institutions a
 </tr>
 
 <tr>
-  <td align="center"><a href="https://github.com/jins-meme/home/wiki#accessible-signals">Raw data Access</a></td>
+  <td align="center"><a href="https://github.com/jins-meme/documentation#accessible-signals">Raw data Access</a></td>
   <td align="center"> - </td>
   <td align="center"> ✔ </td>
 </tr>
