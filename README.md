@@ -1,4 +1,4 @@
-<img src="wiki/images/logo_JINSMEME.png" alt="logo_JINSMEME" width="392" height="51">
+<img src="documentation.wiki/images/logo_JINSMEME.png" alt="logo_JINSMEME" width="392" height="51">
 <!--
 default size width="3840" height="513"
 -->
