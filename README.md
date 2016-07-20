@@ -5,7 +5,7 @@ default size width="3840" height="513"
 
 Welcome to the **JINS MEME** Wiki Page. 
 
-Here you can find out everything you need to know about the JINS MEME. If this is the first time hearing about the JINS MEME, we recommend you visit the [**reference page**](https://github.com/jins-meme/home/wiki/Reference). This wiki is the main source of documentation for the developers and researchers of JINS MEME.
+Here you can find out everything you need to know about the JINS MEME. If this is the first time hearing about the JINS MEME, we recommend you visit the [**reference page**](https://github.com/jins-meme/documentation/tree/master/reference). This wiki is the main source of documentation for the developers and researchers of JINS MEME.
 
 ## Select your JINS MEME according to the intended use.
 #### **[Order > JINS MEME](https://jins-meme.com/en/purchase/application)**
