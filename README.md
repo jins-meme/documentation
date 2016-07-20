@@ -24,7 +24,7 @@ JINS MEME Academic is intended to be used in research by academic institutions a
 <table syle="width:100%">
 <tr>
   <td align="center" width="20%">Model</td>
-  <td align="center" width="30%"><a href="https://github.com/jins-meme/home/wiki/JINS-MEME-DEVELOPERS">JINS MEME DEVELOPERS</a></td>
+  <td align="center" width="30%"><a href="https://github.com/jins-meme/documentation/tree/master/developers">JINS MEME DEVELOPERS</a></td>
   <td align="center" width="30%"><a href="https://github.com/jins-meme/documentation/tree/master/academic-pack">JINS MEME ACADEMIC PACK</a></td>
 </tr>
 
