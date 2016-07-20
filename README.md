@@ -47,13 +47,13 @@ JINS MEME Academic is intended to be used in research by academic institutions a
 </tr>
 
 <tr>
-  <td align="center"><a href="https://github.com/jins-meme/home/wiki#accessible-signals">Processed Data Access</a></td>
+  <td align="center"><a href="https://github.com/jins-meme/documentation#accessible-signals">Processed Data Access</a></td>
   <td align="center"> ✔ </td>
   <td align="center"> - </td>
 </tr>
 
 <tr>
-  <td align="center">Hardware<br><a href="https://github.com/jins-meme/home/wiki#hardware-details">(Details)</a></td>
+  <td align="center">Hardware<br><a href="https://github.com/jins-meme/documentation#hardware-details">(Details)</a></td>
   <td colspan="2" align="center"><img width="300" src="https://raw.github.com/wiki/jins-meme/documentation/images/Wellington.JPG" /> <br> Wellington Model </td>
 </tr>
 
