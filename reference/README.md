@@ -6,7 +6,7 @@
 * [JINS MEME ACADEMIC PACK](https://jins-meme.com/en/academic/)<br>
 You can find **academic papers** working with JINS MEME on the bottom of the page.
 
-* [JINS MEME Advent Calendar](http://qiita.com/advent-calendar/2015/jinsmeme)<br>
+* [JINS MEME Advent Calendar 2015](http://qiita.com/advent-calendar/2015/jinsmeme)<br>
 Most part is written in Japanese. However, you could find many sample projects.
 
 <!--
