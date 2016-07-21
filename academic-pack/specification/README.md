@@ -78,8 +78,8 @@ Quaternion mode: electrooculography sensors OFF
 | ![windows](https://meme-consumer-static.jins-meme.com/img/academic/specifications/img_viewer_windows.jpg?version=201605181100) | ![android](https://meme-consumer-static.jins-meme.com/img/academic/specifications/img_viewer_android.jpg?version=201605181100) |
 
 ***
-### Download sample of CVS data : 
-<a href="https://github.com/jins-meme/home/wiki/files/sample.csv">Sample</a>
+### Download sample of CVS data : <a href="https://github.com/jins-meme/home/wiki/files/sample.csv">sample.csv</a><br>
+For more information, please see this page.
 
 ***
 [back↑](#three-point-electrooculograpy-sensors)
