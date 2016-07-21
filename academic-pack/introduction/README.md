@@ -1,7 +1,7 @@
 Welcome to Gettering Started page for JINS MEME ACADEMIC PACK. Here, you can find how to setup and acquire data with JINS MEME ACADEMIC PACK.
 
 ## General information
-For general introduction such as "How to turn MEME on" and "How o use official Data Logger", please see <a href="https://raw.github.com/wiki/jins-meme/documentation/files/academicpack_manual_ver1.0.pdf">Instruction Manual(PDF).</a>
+For general introduction such as "How to turn MEME on" and "How o use official Data Logger", please see <a href="https://github.com/jins-meme/academic-windows-datalogger/files/292805/academicpack_manual_ver1.0.pdf">Instruction Manual(PDF).</a>
 
 ## How to acquire streaming data from JINS MEME ACADEMIC PACK
 
