@@ -79,7 +79,7 @@ Quaternion mode: electrooculography sensors OFF
 
 ***
 ### Download sample of CVS data : <a href="https://github.com/jins-meme/home/wiki/files/sample.csv">sample.csv</a><br>
-For more information, please see this page.
+For more information, please see <a href="https://jins-meme.com/en/academic/" target="_blank">this page</a>.
 
 ***
 [back↑](#three-point-electrooculograpy-sensors)
