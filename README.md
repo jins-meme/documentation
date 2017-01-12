@@ -37,7 +37,9 @@ Most part is written in Japanese. However, you could find many sample projects.
  -->
 
 * Prof.Masahiko Inami talks about JINS MEME
+
  [![Prof Masahiko Inami talks about JINS MEME](http://img.youtube.com/vi/9zdHe059N_E/0.jpg)](http://www.youtube.com/watch?v=9zdHe059N_E)
 
 * Prof Masahiko Inami talks about JINS MEME
+
  [![A window into the world of JINS MEME](http://img.youtube.com/vi/HEOCn9go4E0/0.jpg)](http://www.youtube.com/watch?v=HEOCn9go4E0)
