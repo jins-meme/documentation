@@ -14,13 +14,12 @@ There are 2 types of JINS MEME. One is "Developers" version and the other is "Ac
 
   
 ## Order JINS MEME
-###### For Customers outside of Japan
-#### **[Order here](https://jins-meme.com/en/purchase/application)**
-
 ###### For Customers living in Japan
 #### **[Order > JINS MEME](https://jins-meme.com/en/products/confirm-es/)**
 #### **[Order > JINS MEME Academic Pack](https://jins-meme.com/en/academic/)**
 
+###### For Customers outside of Japan
+#### **[Order here](https://jins-meme.com/en/purchase/application)**
 `We require an application due to the fact there are certain countries to which we cannot ship to. e.g) United States`
 
 `JINS MEME Official application for iOS and Android released in Japan is NOT supported.`
