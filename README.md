@@ -16,7 +16,9 @@ There are 2 types of JINS MEME. One is "Developers" version and the other is "Ac
 ## Order JINS MEME
 #### **[Order > JINS MEME](https://jins-meme.com/en/purchase/application)**
 
-[(For Customers living in Japan)](https://jins-meme.com/en/products/confirm-es/)
+###### For Customers living in Japan
+#### **[Order > JINS MEME](https://jins-meme.com/en/products/confirm-es/)**
+#### **[Order > JINS MEME Academic Pack](https://jins-meme.com/en/academic/)
 
 `We require an application due to the fact there are certain countries to which we cannot ship to. e.g) United States`
 
