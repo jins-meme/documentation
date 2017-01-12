@@ -14,6 +14,7 @@ There are 2 types of JINS MEME. One is "Developers" version and the other is "Ac
 
   
 ## Order JINS MEME
+###### For Customers outside of Japan
 #### **[Order here](https://jins-meme.com/en/purchase/application)**
 
 ###### For Customers living in Japan
